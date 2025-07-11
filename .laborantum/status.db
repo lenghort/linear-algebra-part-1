@@ -1,0 +1,529 @@
+{
+    "chapters": [
+        {
+            "path": "/texts/course/config.yml",
+            "status": {
+                "total": 111,
+                "correct": 23.090909090909093
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/config.yml",
+            "status": {
+                "total": 34,
+                "correct": 23.090909090909093
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/config.yml",
+            "status": {
+                "total": 39,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/config.yml",
+            "status": {
+                "total": 23,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/config.yml",
+            "status": {
+                "total": 15,
+                "correct": 0
+            }
+        }
+    ],
+    "lessons": [
+        {
+            "path": "/texts/course/1. Vectors/Length of Vector Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    3,
+                    4
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz 2/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    5,
+                    3,
+                    7,
+                    2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scaling Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    1,
+                    6,
+                    3,
+                    4,
+                    2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    6,
+                    2,
+                    4
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Geometric Meaning Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    3,
+                    6,
+                    2,
+                    5
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Orthonormalisation Quiz/config.yml",
+            "status": {
+                "total": 2,
+                "correct": 2,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Numpy Practice/config.yml",
+            "status": {
+                "correct": 14.090909090909092,
+                "total": 15,
+                "testStatus": [
+                    {
+                        "name": "root -> vectors -> 0",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+                    },
+                    {
+                        "name": "root -> vectors -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> vectors -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> vectors -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 6",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 0 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 1 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 2 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 3 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 0",
+                        "ok": false,
+                        "status": "FAILED: Edit distance between strings is 1"
+                    },
+                    {
+                        "name": "root -> lovely -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Vectors Practice/config.yml",
+            "status": {
+                "total": 10,
+                "correct": 0,
+                "testStatus": [],
+                "error": "[NbClientApp] Executing .laborantum/texts/course/1. Vectors/Vectors Practice/task.ipynb\n[NbClientApp] Executing notebook with kernel: python3\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.11/site-packages/jupyter_core/utils/__init__.py\", line 154, in wrapped\n    asyncio.get_running_loop()\nRuntimeError: no running event loop\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/usr/local/bin/jupyter-execute\", line 8, in <module>\n    sys.exit(main())\n             ^^^^^^\n  File \"/usr/local/lib/python3.11/site-packages/jupyter_core/application.py\", line 284, in launch_instance\n    super().launch_instance(argv=argv, **kwargs)\n  File \"/usr/local/lib/python3.11/site-packages/traitlets/config/application.py\", line 1074, in launch_instance\n    app.initialize(argv)\n  File \"/usr/local/lib/python3.11/site-packages/traitlets/config/application.py\", line 118, in inner\n    return method(app, *args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/site-packages/nbclient/cli.py\", line 161, in initialize\n    self.run_notebook(path)\n  File \"/usr/local/lib/python3.11/site-packages/nbclient/cli.py\", line 215, in run_notebook\n    client.execute()\n  File \"/usr/local/lib/python3.11/site-packages/jupyter_core/utils/__init__.py\", line 158, in wrapped\n    return loop.run_until_complete(inner)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.11/site-packages/nbclient/client.py\", line 709, in async_execute\n    await self.async_execute_cell(\n  File \"/usr/local/lib/python3.11/site-packages/nbclient/client.py\", line 1062, in async_execute_cell\n    await self._check_raise_for_error(cell, cell_index, exec_reply)\n  File \"/usr/local/lib/python3.11/site-packages/nbclient/client.py\", line 918, in _check_raise_for_error\n    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)\nnbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:\n------------------\nanswers['directions'] = [\n    get_directions(**inp) for inp in inputs\n]\n------------------\n\n\n\u001b[31m---------------------------------------------------------------------------\u001b[39m\n\u001b[31mTypeError\u001b[39m                                 Traceback (most recent call last)\n\u001b[36mCell\u001b[39m\u001b[36m \u001b[39m\u001b[32mIn[7]\u001b[39m\u001b[32m, line 1\u001b[39m\n\u001b[32m----> \u001b[39m\u001b[32m1\u001b[39m answers[\u001b[33m'\u001b[39m\u001b[33mdirections\u001b[39m\u001b[33m'\u001b[39m] = \u001b[43m[\u001b[49m\n\u001b[32m      2\u001b[39m \u001b[43m    \u001b[49m\u001b[43mget_directions\u001b[49m\u001b[43m(\u001b[49m\u001b[43m*\u001b[49m\u001b[43m*\u001b[49m\u001b[43minp\u001b[49m\u001b[43m)\u001b[49m\u001b[43m \u001b[49m\u001b[38;5;28;43;01mfor\u001b[39;49;00m\u001b[43m \u001b[49m\u001b[43minp\u001b[49m\u001b[43m \u001b[49m\u001b[38;5;129;43;01min\u001b[39;49;00m\u001b[43m \u001b[49m\u001b[43minputs\u001b[49m\n\u001b[32m      3\u001b[39m \u001b[43m]\u001b[49m\n\n\u001b[36mCell\u001b[39m\u001b[36m \u001b[39m\u001b[32mIn[7]\u001b[39m\u001b[32m, line 2\u001b[39m, in \u001b[36m<listcomp>\u001b[39m\u001b[34m(.0)\u001b[39m\n\u001b[32m      1\u001b[39m answers[\u001b[33m'\u001b[39m\u001b[33mdirections\u001b[39m\u001b[33m'\u001b[39m] = [\n\u001b[32m----> \u001b[39m\u001b[32m2\u001b[39m     \u001b[43mget_directions\u001b[49m\u001b[43m(\u001b[49m\u001b[43m*\u001b[49m\u001b[43m*\u001b[49m\u001b[43minp\u001b[49m\u001b[43m)\u001b[49m \u001b[38;5;28;01mfor\u001b[39;00m inp \u001b[38;5;129;01min\u001b[39;00m inputs\n\u001b[32m      3\u001b[39m ]\n\n\u001b[31mTypeError\u001b[39m: get_directions() got an unexpected keyword argument 'x_component'\n\n"
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Spans/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Dependency/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Independency 1/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Independency 2/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Linear Dependensy and Orthonormalization/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Orthonormalization Algorithm/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Basis/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Coordinates/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Orthonormal Coordinates/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Coordinates and Basis Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Hyperplanes/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Vector Spaces/Hyperplanes and Subspaces/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrices Manual Exercise/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix Product Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix Product Optimal Order/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Functions as Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Linear Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices II/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Invertible Matrices III/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4. Linear Transforms/Some Interesting Linear Transforms/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        }
+    ]
+}
